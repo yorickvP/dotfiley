@@ -1,0 +1,10 @@
+{
+  "name": "dotfiley",
+  "version": "0.0.0",
+  "description": "A thing that installs your dotfiles",
+  "author": "Yorick van Pelt <yorickvanpelt@gmail.com> http://yori.cc/",
+  "license": "BSD",
+  "bin": {
+  	"dotfiley": "./bin/dotfiley"
+  }
+}
