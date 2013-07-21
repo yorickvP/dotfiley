@@ -6,5 +6,12 @@
   "license": "BSD",
   "bin": {
   	"dotfiley": "./bin/dotfiley"
+  },
+  "devDependencies": {
+  	"LiveScript": "~1.1.1"
+  },
+  "scripts": {
+  	"build": "slake build",
+  	"prepublish": "slake build"
   }
 }
